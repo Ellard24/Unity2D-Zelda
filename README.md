@@ -72,6 +72,6 @@ _Note: I'm going to demonstrate command line (CLI) commands but you can do the s
 1. `git pull` to get latest updates on your branch (in case someone is also working on it remotely)
 2. `git push` to publish your local changes up to GitHub so everyone else can be up-to-date
 
-Feel free to email or message me [hueterm@oregonstate.edu](mailto:hueterm@oregonstate.edu) if you have any git questions!
+
 
 
