@@ -1,0 +1,1333 @@
+fileFormatVersion: 2
+guid: d52d8184f0d76ed4db5b97c9a7cb75c9
+timeCreated: 1474999428
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: re3___monster_sprites_v1_0_by_doubleleggy_0
+    21300002: re3___monster_sprites_v1_0_by_doubleleggy_1
+    21300004: re3___monster_sprites_v1_0_by_doubleleggy_2
+    21300006: re3___monster_sprites_v1_0_by_doubleleggy_3
+    21300008: re3___monster_sprites_v1_0_by_doubleleggy_4
+    21300010: re3___monster_sprites_v1_0_by_doubleleggy_5
+    21300012: re3___monster_sprites_v1_0_by_doubleleggy_6
+    21300014: re3___monster_sprites_v1_0_by_doubleleggy_7
+    21300016: re3___monster_sprites_v1_0_by_doubleleggy_8
+    21300018: re3___monster_sprites_v1_0_by_doubleleggy_9
+    21300020: re3___monster_sprites_v1_0_by_doubleleggy_10
+    21300022: re3___monster_sprites_v1_0_by_doubleleggy_11
+    21300024: re3___monster_sprites_v1_0_by_doubleleggy_12
+    21300026: re3___monster_sprites_v1_0_by_doubleleggy_13
+    21300028: re3___monster_sprites_v1_0_by_doubleleggy_14
+    21300030: re3___monster_sprites_v1_0_by_doubleleggy_15
+    21300032: re3___monster_sprites_v1_0_by_doubleleggy_16
+    21300034: re3___monster_sprites_v1_0_by_doubleleggy_17
+    21300036: re3___monster_sprites_v1_0_by_doubleleggy_18
+    21300038: re3___monster_sprites_v1_0_by_doubleleggy_19
+    21300040: re3___monster_sprites_v1_0_by_doubleleggy_20
+    21300042: re3___monster_sprites_v1_0_by_doubleleggy_21
+    21300044: re3___monster_sprites_v1_0_by_doubleleggy_22
+    21300046: re3___monster_sprites_v1_0_by_doubleleggy_23
+    21300048: re3___monster_sprites_v1_0_by_doubleleggy_24
+    21300050: re3___monster_sprites_v1_0_by_doubleleggy_25
+    21300052: re3___monster_sprites_v1_0_by_doubleleggy_26
+    21300054: re3___monster_sprites_v1_0_by_doubleleggy_27
+    21300056: re3___monster_sprites_v1_0_by_doubleleggy_28
+    21300058: re3___monster_sprites_v1_0_by_doubleleggy_29
+    21300060: re3___monster_sprites_v1_0_by_doubleleggy_30
+    21300062: re3___monster_sprites_v1_0_by_doubleleggy_31
+    21300064: re3___monster_sprites_v1_0_by_doubleleggy_32
+    21300066: re3___monster_sprites_v1_0_by_doubleleggy_33
+    21300068: re3___monster_sprites_v1_0_by_doubleleggy_34
+    21300070: re3___monster_sprites_v1_0_by_doubleleggy_35
+    21300072: re3___monster_sprites_v1_0_by_doubleleggy_36
+    21300074: re3___monster_sprites_v1_0_by_doubleleggy_37
+    21300076: re3___monster_sprites_v1_0_by_doubleleggy_38
+    21300078: re3___monster_sprites_v1_0_by_doubleleggy_39
+    21300080: re3___monster_sprites_v1_0_by_doubleleggy_40
+    21300082: re3___monster_sprites_v1_0_by_doubleleggy_41
+    21300084: re3___monster_sprites_v1_0_by_doubleleggy_42
+    21300086: re3___monster_sprites_v1_0_by_doubleleggy_43
+    21300088: re3___monster_sprites_v1_0_by_doubleleggy_44
+    21300090: re3___monster_sprites_v1_0_by_doubleleggy_45
+    21300092: re3___monster_sprites_v1_0_by_doubleleggy_46
+    21300094: re3___monster_sprites_v1_0_by_doubleleggy_47
+    21300096: re3___monster_sprites_v1_0_by_doubleleggy_48
+    21300098: re3___monster_sprites_v1_0_by_doubleleggy_49
+    21300100: re3___monster_sprites_v1_0_by_doubleleggy_50
+    21300102: re3___monster_sprites_v1_0_by_doubleleggy_51
+    21300104: re3___monster_sprites_v1_0_by_doubleleggy_52
+    21300106: re3___monster_sprites_v1_0_by_doubleleggy_53
+    21300108: re3___monster_sprites_v1_0_by_doubleleggy_54
+    21300110: re3___monster_sprites_v1_0_by_doubleleggy_55
+    21300112: re3___monster_sprites_v1_0_by_doubleleggy_56
+    21300114: re3___monster_sprites_v1_0_by_doubleleggy_57
+    21300116: re3___monster_sprites_v1_0_by_doubleleggy_58
+    21300118: re3___monster_sprites_v1_0_by_doubleleggy_59
+    21300120: re3___monster_sprites_v1_0_by_doubleleggy_60
+    21300122: re3___monster_sprites_v1_0_by_doubleleggy_61
+    21300124: re3___monster_sprites_v1_0_by_doubleleggy_62
+    21300126: re3___monster_sprites_v1_0_by_doubleleggy_63
+    21300128: re3___monster_sprites_v1_0_by_doubleleggy_64
+    21300130: re3___monster_sprites_v1_0_by_doubleleggy_65
+    21300132: re3___monster_sprites_v1_0_by_doubleleggy_66
+    21300134: re3___monster_sprites_v1_0_by_doubleleggy_67
+    21300136: re3___monster_sprites_v1_0_by_doubleleggy_68
+    21300138: re3___monster_sprites_v1_0_by_doubleleggy_69
+    21300140: re3___monster_sprites_v1_0_by_doubleleggy_70
+    21300142: re3___monster_sprites_v1_0_by_doubleleggy_71
+    21300144: re3___monster_sprites_v1_0_by_doubleleggy_72
+    21300146: re3___monster_sprites_v1_0_by_doubleleggy_73
+    21300148: re3___monster_sprites_v1_0_by_doubleleggy_74
+    21300150: re3___monster_sprites_v1_0_by_doubleleggy_75
+    21300152: re3___monster_sprites_v1_0_by_doubleleggy_76
+    21300154: re3___monster_sprites_v1_0_by_doubleleggy_77
+    21300156: re3___monster_sprites_v1_0_by_doubleleggy_78
+    21300158: re3___monster_sprites_v1_0_by_doubleleggy_79
+    21300160: re3___monster_sprites_v1_0_by_doubleleggy_80
+    21300162: re3___monster_sprites_v1_0_by_doubleleggy_81
+    21300164: re3___monster_sprites_v1_0_by_doubleleggy_82
+    21300166: re3___monster_sprites_v1_0_by_doubleleggy_83
+    21300168: re3___monster_sprites_v1_0_by_doubleleggy_84
+    21300170: re3___monster_sprites_v1_0_by_doubleleggy_85
+    21300172: re3___monster_sprites_v1_0_by_doubleleggy_86
+    21300174: re3___monster_sprites_v1_0_by_doubleleggy_87
+    21300176: re3___monster_sprites_v1_0_by_doubleleggy_88
+    21300178: re3___monster_sprites_v1_0_by_doubleleggy_89
+    21300180: re3___monster_sprites_v1_0_by_doubleleggy_90
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 224
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 128
+        width: 24
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 224
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 224
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 128
+        width: 28
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 224
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 224
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 27
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 224
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 224
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 128
+        width: 27
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 224
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 192
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 192
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 192
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 192
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 192
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 192
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 192
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_19
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 192
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 160
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 160
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 160
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 160
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 160
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_25
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 160
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 160
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_27
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 160
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 128
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 128
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 128
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 128
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_32
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 128
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_33
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 128
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_34
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 128
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_35
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 128
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 96
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_37
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 96
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_38
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 96
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_39
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 97
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_40
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 97
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_41
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 97
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_42
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 96
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_43
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 96
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_44
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 93
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_45
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 93
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_46
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 93
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_47
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 89
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_48
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 93
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_49
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 93
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_50
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 93
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_51
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 93
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 96
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_53
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 64
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_54
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 64
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_55
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 64
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_56
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 64
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_57
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 64
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_58
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 75
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_59
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 71
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_61
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 32
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_62
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 32
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_63
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 51
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_64
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 51
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_65
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 51
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_66
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 51
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_67
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 51
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_68
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 51
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_69
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 51
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_70
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 47
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_71
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 47
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_72
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_73
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 32
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_74
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 32
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_75
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 32
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_76
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 32
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_77
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 32
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_78
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 32
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_79
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_80
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_81
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_82
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_83
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_84
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 4
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_85
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 4
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_86
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_87
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_88
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 4
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_89
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 4
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: re3___monster_sprites_v1_0_by_doubleleggy_90
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 4
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

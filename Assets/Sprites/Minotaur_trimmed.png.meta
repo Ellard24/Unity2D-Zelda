@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 6477151e477a3bf44bca0ce994beb4bd
+timeCreated: 1478794392
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Minotaur_trimmed_0
+    21300002: Minotaur_trimmed_1
+    21300004: Minotaur_trimmed_2
+    21300006: Minotaur_trimmed_3
+    21300008: Minotaur_trimmed_4
+    21300010: Minotaur_trimmed_5
+    21300012: Minotaur_trimmed_6
+    21300014: Minotaur_trimmed_7
+    21300016: Minotaur_trimmed_8
+    21300018: Minotaur_trimmed_9
+    21300020: Minotaur_trimmed_10
+    21300022: Minotaur_trimmed_11
+    21300024: Minotaur_trimmed_12
+    21300026: Minotaur_trimmed_13
+    21300028: Minotaur_trimmed_14
+    21300030: Minotaur_trimmed_15
+    21300032: Minotaur_trimmed_16
+    21300034: Minotaur_trimmed_17
+    21300036: Minotaur_trimmed_18
+    21300038: Minotaur_trimmed_19
+    21300040: Minotaur_trimmed_20
+    21300042: Minotaur_trimmed_21
+    21300044: Minotaur_trimmed_22
+    21300046: Minotaur_trimmed_23
+    21300048: Minotaur_trimmed_24
+    21300050: Minotaur_trimmed_25
+    21300052: Minotaur_trimmed_26
+    21300054: Minotaur_trimmed_27
+    21300056: Minotaur_trimmed_28
+    21300058: Minotaur_trimmed_29
+    21300060: Minotaur_trimmed_30
+    21300062: Minotaur_trimmed_31
+    21300064: Minotaur_trimmed_32
+    21300066: Minotaur_trimmed_33
+    21300068: Minotaur_trimmed_34
+    21300070: Minotaur_trimmed_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minotaur_trimmed_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1164
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1164
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1164
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1164
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1164
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1164
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1164
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_7
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1164
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_8
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1164
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1055
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1055
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1055
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 897
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 897
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_14
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 897
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 897
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 891
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_17
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 891
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_18
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 897
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_19
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 897
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_20
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 897
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_21
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 807
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 809
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_23
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 808
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 693
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 695
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_26
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 693
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_27
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 705
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_28
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 705
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_29
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 705
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_30
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 705
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_31
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 703
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_32
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 705
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_33
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 595
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_34
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 595
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minotaur_trimmed_35
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 595
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

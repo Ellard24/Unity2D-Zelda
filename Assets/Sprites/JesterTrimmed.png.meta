@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 63d05861af7dfd54583f288c846c9535
+timeCreated: 1476915203
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: JesterTrimmed_0
+    21300002: JesterTrimmed_1
+    21300004: JesterTrimmed_2
+    21300006: JesterTrimmed_3
+    21300008: JesterTrimmed_4
+    21300010: JesterTrimmed_5
+    21300012: JesterTrimmed_6
+    21300014: JesterTrimmed_7
+    21300016: JesterTrimmed_8
+    21300018: JesterTrimmed_9
+    21300020: JesterTrimmed_10
+    21300022: JesterTrimmed_11
+    21300024: JesterTrimmed_12
+    21300026: JesterTrimmed_13
+    21300028: JesterTrimmed_14
+    21300030: JesterTrimmed_15
+    21300032: JesterTrimmed_16
+    21300034: JesterTrimmed_17
+    21300036: JesterTrimmed_19
+    21300038: JesterTrimmed_20
+    21300040: JesterTrimmed_21
+    21300042: JesterTrimmed_22
+    21300044: JesterTrimmed_23
+    21300046: JesterTrimmed_24
+    21300048: JesterTrimmed_25
+    21300050: JesterTrimmed_26
+    21300052: JesterTrimmed_27
+    21300054: JesterTrimmed_29
+    21300056: JesterTrimmed_30
+    21300058: JesterTrimmed_31
+    21300060: JesterTrimmed_32
+    21300062: JesterTrimmed_33
+    21300064: JesterTrimmed_34
+    21300066: JesterTrimmed_36
+    21300068: JesterTrimmed_37
+    21300070: JesterTrimmed_38
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JesterTrimmed_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 784
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 784
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 784
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 784
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 740
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 740
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 740
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 740
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 698
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 698
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_10
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 698
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 698
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 656
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 656
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_14
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 655
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 654
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 542
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 542
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 543
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_20
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 542
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_21
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 542
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 479
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 479
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_24
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 479
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 479
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_26
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 479
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_27
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 419
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_29
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 409
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 418
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 409
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_32
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 409
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_33
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 363
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 354
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 346
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 347
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JesterTrimmed_38
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 345
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

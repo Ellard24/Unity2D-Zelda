@@ -1,0 +1,3573 @@
+fileFormatVersion: 2
+guid: 40f5f2cc46ae4814cb9eded847ced9b9
+timeCreated: 1476058058
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Link-LTTP_0
+    21300002: Link-LTTP_1
+    21300004: Link-LTTP_2
+    21300006: Link-LTTP_3
+    21300008: Link-LTTP_4
+    21300010: Link-LTTP_5
+    21300012: Link-LTTP_6
+    21300014: Link-LTTP_7
+    21300016: Link-LTTP_8
+    21300018: Link-LTTP_9
+    21300020: Link-LTTP_10
+    21300022: Link-LTTP_11
+    21300024: Link-LTTP_12
+    21300026: Link-LTTP_13
+    21300028: Link-LTTP_14
+    21300030: Link-LTTP_15
+    21300032: Link-LTTP_16
+    21300034: Link-LTTP_17
+    21300036: Link-LTTP_18
+    21300038: Link-LTTP_19
+    21300040: Link-LTTP_20
+    21300042: Link-LTTP_21
+    21300044: Link-LTTP_22
+    21300046: Link-LTTP_23
+    21300048: Link-LTTP_24
+    21300050: Link-LTTP_25
+    21300052: Link-LTTP_26
+    21300054: Link-LTTP_27
+    21300056: Link-LTTP_28
+    21300058: Link-LTTP_29
+    21300060: Link-LTTP_30
+    21300062: Link-LTTP_31
+    21300064: Link-LTTP_32
+    21300066: Link-LTTP_33
+    21300068: Link-LTTP_34
+    21300070: Link-LTTP_35
+    21300072: Link-LTTP_36
+    21300074: Link-LTTP_37
+    21300076: Link-LTTP_38
+    21300078: Link-LTTP_39
+    21300080: Link-LTTP_40
+    21300082: Link-LTTP_41
+    21300084: Link-LTTP_42
+    21300086: Link-LTTP_43
+    21300088: Link-LTTP_44
+    21300090: Link-LTTP_45
+    21300092: Link-LTTP_46
+    21300094: Link-LTTP_47
+    21300096: Link-LTTP_48
+    21300098: Link-LTTP_49
+    21300100: Link-LTTP_50
+    21300102: Link-LTTP_51
+    21300104: Link-LTTP_52
+    21300106: Link-LTTP_53
+    21300108: Link-LTTP_54
+    21300110: Link-LTTP_55
+    21300112: Link-LTTP_56
+    21300114: Link-LTTP_57
+    21300116: Link-LTTP_58
+    21300118: Link-LTTP_59
+    21300120: Link-LTTP_60
+    21300122: Link-LTTP_61
+    21300124: Link-LTTP_62
+    21300126: Link-LTTP_63
+    21300128: Link-LTTP_64
+    21300130: Link-LTTP_65
+    21300132: Link-LTTP_66
+    21300134: Link-LTTP_67
+    21300136: Link-LTTP_68
+    21300138: Link-LTTP_69
+    21300140: Link-LTTP_70
+    21300142: Link-LTTP_71
+    21300144: Link-LTTP_72
+    21300146: Link-LTTP_73
+    21300148: Link-LTTP_74
+    21300150: Link-LTTP_75
+    21300152: Link-LTTP_76
+    21300154: Link-LTTP_77
+    21300156: Link-LTTP_78
+    21300158: Link-LTTP_79
+    21300160: Link-LTTP_80
+    21300162: Link-LTTP_81
+    21300164: Link-LTTP_82
+    21300166: Link-LTTP_83
+    21300168: Link-LTTP_84
+    21300170: Link-LTTP_85
+    21300172: Link-LTTP_86
+    21300174: Link-LTTP_87
+    21300176: Link-LTTP_88
+    21300178: Link-LTTP_89
+    21300180: Link-LTTP_90
+    21300182: Link-LTTP_91
+    21300184: Link-LTTP_92
+    21300186: Link-LTTP_93
+    21300188: Link-LTTP_94
+    21300190: Link-LTTP_95
+    21300192: Link-LTTP_96
+    21300194: Link-LTTP_97
+    21300196: Link-LTTP_98
+    21300198: Link-LTTP_99
+    21300200: Link-LTTP_100
+    21300202: Link-LTTP_101
+    21300204: Link-LTTP_102
+    21300206: Link-LTTP_103
+    21300208: Link-LTTP_104
+    21300210: Link-LTTP_105
+    21300212: Link-LTTP_106
+    21300214: Link-LTTP_107
+    21300216: Link-LTTP_108
+    21300218: Link-LTTP_109
+    21300220: Link-LTTP_110
+    21300222: Link-LTTP_111
+    21300224: Link-LTTP_112
+    21300226: Link-LTTP_113
+    21300228: Link-LTTP_114
+    21300230: Link-LTTP_115
+    21300232: Link-LTTP_116
+    21300234: Link-LTTP_117
+    21300236: Link-LTTP_118
+    21300238: Link-LTTP_119
+    21300240: Link-LTTP_120
+    21300242: Link-LTTP_121
+    21300244: Link-LTTP_122
+    21300246: Link-LTTP_123
+    21300248: Link-LTTP_124
+    21300250: Link-LTTP_125
+    21300252: Link-LTTP_126
+    21300254: Link-LTTP_127
+    21300256: Link-LTTP_128
+    21300258: Link-LTTP_129
+    21300260: Link-LTTP_130
+    21300262: Link-LTTP_131
+    21300264: Link-LTTP_132
+    21300266: Link-LTTP_133
+    21300268: Link-LTTP_134
+    21300270: Link-LTTP_135
+    21300272: Link-LTTP_136
+    21300274: Link-LTTP_137
+    21300276: Link-LTTP_138
+    21300278: Link-LTTP_139
+    21300280: Link-LTTP_140
+    21300282: Link-LTTP_141
+    21300284: Link-LTTP_142
+    21300286: Link-LTTP_143
+    21300288: Link-LTTP_144
+    21300290: Link-LTTP_145
+    21300292: Link-LTTP_146
+    21300294: Link-LTTP_147
+    21300296: Link-LTTP_148
+    21300298: Link-LTTP_149
+    21300300: Link-LTTP_150
+    21300302: Link-LTTP_151
+    21300304: Link-LTTP_152
+    21300306: Link-LTTP_153
+    21300308: Link-LTTP_154
+    21300310: Link-LTTP_155
+    21300312: Link-LTTP_156
+    21300314: Link-LTTP_157
+    21300316: Link-LTTP_158
+    21300318: Link-LTTP_159
+    21300320: Link-LTTP_160
+    21300322: Link-LTTP_161
+    21300324: Link-LTTP_162
+    21300326: Link-LTTP_163
+    21300328: Link-LTTP_164
+    21300330: Link-LTTP_165
+    21300332: Link-LTTP_166
+    21300334: Link-LTTP_167
+    21300336: Link-LTTP_168
+    21300338: Link-LTTP_169
+    21300340: Link-LTTP_170
+    21300342: Link-LTTP_171
+    21300344: Link-LTTP_172
+    21300346: Link-LTTP_173
+    21300348: Link-LTTP_174
+    21300350: Link-LTTP_175
+    21300352: Link-LTTP_176
+    21300354: Link-LTTP_177
+    21300356: Link-LTTP_178
+    21300358: Link-LTTP_179
+    21300360: Link-LTTP_180
+    21300362: Link-LTTP_181
+    21300364: Link-LTTP_182
+    21300366: Link-LTTP_183
+    21300368: Link-LTTP_184
+    21300370: Link-LTTP_185
+    21300372: Link-LTTP_186
+    21300374: Link-LTTP_187
+    21300376: Link-LTTP_188
+    21300378: Link-LTTP_189
+    21300380: Link-LTTP_190
+    21300382: Link-LTTP_191
+    21300384: Link-LTTP_192
+    21300386: Link-LTTP_193
+    21300388: Link-LTTP_194
+    21300390: Link-LTTP_195
+    21300392: Link-LTTP_196
+    21300394: Link-LTTP_197
+    21300396: Link-LTTP_198
+    21300398: Link-LTTP_199
+    21300400: Link-LTTP_200
+    21300402: Link-LTTP_201
+    21300404: Link-LTTP_202
+    21300406: Link-LTTP_203
+    21300408: Link-LTTP_204
+    21300410: Link-LTTP_205
+    21300412: Link-LTTP_206
+    21300414: Link-LTTP_207
+    21300416: Link-LTTP_208
+    21300418: Link-LTTP_209
+    21300420: Link-LTTP_210
+    21300422: Link-LTTP_211
+    21300424: Link-LTTP_212
+    21300426: Link-LTTP_213
+    21300428: Link-LTTP_214
+    21300430: Link-LTTP_215
+    21300432: Link-LTTP_216
+    21300434: Link-LTTP_217
+    21300436: Link-LTTP_218
+    21300438: Link-LTTP_219
+    21300440: Link-LTTP_220
+    21300442: Link-LTTP_221
+    21300444: Link-LTTP_222
+    21300446: Link-LTTP_223
+    21300448: Link-LTTP_224
+    21300450: Link-LTTP_225
+    21300452: Link-LTTP_226
+    21300454: Link-LTTP_227
+    21300456: Link-LTTP_228
+    21300458: Link-LTTP_229
+    21300460: Link-LTTP_230
+    21300462: Link-LTTP_231
+    21300464: Link-LTTP_232
+    21300466: Link-LTTP_233
+    21300468: Link-LTTP_234
+    21300470: Link-LTTP_235
+    21300472: Link-LTTP_236
+    21300474: Link-LTTP_237
+    21300476: Link-LTTP_238
+    21300478: Link-LTTP_239
+    21300480: Link-LTTP_240
+    21300482: Link-LTTP_241
+    21300484: Link-LTTP_242
+    21300486: Link-LTTP_243
+    21300488: Link-LTTP_244
+    21300490: Link-LTTP_245
+    21300492: Link-LTTP_246
+    21300494: Link-LTTP_247
+    21300496: Link-LTTP_248
+    21300498: Link-LTTP_249
+    21300500: Link-LTTP_250
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Link-LTTP_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 387
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 358
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 358
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 358
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 358
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 358
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_11
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_12
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 358
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 358
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_14
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 358
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_15
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 358
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_16
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 358
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 351
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_18
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 351
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_19
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 350
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_20
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 351
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_21
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 351
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_22
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 343
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_23
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 351
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_24
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 351
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_25
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 351
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_26
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 351
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_27
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 351
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_28
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 351
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 314
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 314
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 314
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_32
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 314
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_33
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 314
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 314
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_35
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 314
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_36
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 314
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 314
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_38
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 314
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_39
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 314
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 314
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 314
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_42
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 314
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_43
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 314
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_44
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 314
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_45
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 314
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_46
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 314
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_47
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 314
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_48
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 314
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_49
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 306
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_50
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 297
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_51
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 295
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_52
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 295
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_53
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 306
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_54
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 311
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_55
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 311
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_56
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 311
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 302
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_58
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 301
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_59
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 305
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_60
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 310
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 274
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_62
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 274
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_63
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 274
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_64
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 274
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_65
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 274
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_66
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 274
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_67
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 274
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_68
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 274
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_69
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 274
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_70
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 274
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_71
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 274
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_72
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 274
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_73
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 274
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_74
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 274
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_75
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 274
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_76
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 274
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_77
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 274
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_78
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 274
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_79
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 274
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_80
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 274
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_81
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 274
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_82
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 235
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_83
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 235
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_84
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 234
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_85
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 234
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_86
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 234
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_87
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 234
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_88
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 234
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_89
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 234
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_90
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 234
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_91
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 234
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_92
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 234
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_93
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 234
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_94
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 234
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_95
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 234
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_96
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 234
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_97
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 234
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_98
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 234
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_99
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 234
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_100
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 239
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_101
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 240
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_102
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 239
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_103
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 228
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_104
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 231
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_105
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 228
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_106
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 229
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_107
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 229
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_108
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 229
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_109
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 221
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_110
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 229
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_111
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 229
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_112
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 229
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_113
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 229
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_114
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 229
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_115
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 201
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_116
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 201
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_117
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 201
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_118
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 202
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_119
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 202
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_120
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 222
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_121
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 194
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_122
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 194
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_123
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 194
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_124
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 194
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_125
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 194
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_126
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 201
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_127
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_128
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 202
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_129
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_130
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_131
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 200
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_132
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 202
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_133
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 202
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_134
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 189
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_135
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 190
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_136
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 200
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_137
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 200
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_138
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 191
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_139
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 178
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_140
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 178
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_141
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 178
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_142
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 178
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_143
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 172
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_144
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 169
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_145
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 178
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_146
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 162
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_147
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 162
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_148
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 162
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_149
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 162
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_150
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 162
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_151
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 162
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_152
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 162
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_153
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 162
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_154
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 162
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_155
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 161
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_156
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 161
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_157
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 161
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_158
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 161
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_159
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 161
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_160
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 161
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_161
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 161
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_162
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 161
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_163
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 161
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_164
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 128
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_165
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 132
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_166
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 132
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_167
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 132
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_168
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 132
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_169
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 132
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_170
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 132
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_171
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 132
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_172
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 131
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_173
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 130
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_174
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 134
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_175
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 134
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_176
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 132
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_177
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 126
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_178
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 126
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_179
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_180
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_181
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_182
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_183
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 127
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_184
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 127
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_185
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 126
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_186
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 126
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_187
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 128
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_188
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 128
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_189
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 128
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_190
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 128
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_191
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 128
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_192
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 100
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_193
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 100
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_194
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 100
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_195
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 100
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_196
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 99
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_197
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 99
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_198
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 99
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_199
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 99
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_200
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 99
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_201
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 98
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_202
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 98
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_203
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 98
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_204
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 100
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_205
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 88
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_206
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 86
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_207
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 80
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_208
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 79
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_209
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 80
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_210
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 82
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_211
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 80
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_212
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 66
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_213
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 66
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_214
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 66
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_215
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_216
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 63
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_217
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 63
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_218
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 63
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_219
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 63
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_220
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 63
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_221
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 63
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_222
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 63
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_223
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 63
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_224
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 63
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_225
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 63
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_226
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 53
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_227
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 63
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_228
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 0
+        width: 240
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_229
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 27
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_230
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 28
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_231
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_232
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 27
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_233
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 27
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_234
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 28
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_235
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 28
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_236
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 34
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_237
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 34
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_238
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 34
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_239
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 34
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_240
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 34
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_241
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 34
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_242
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 29
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_243
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 29
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_244
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 29
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_245
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 34
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_246
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 34
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_247
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 34
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_248
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 34
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_249
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 34
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Link-LTTP_250
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 34
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

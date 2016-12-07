@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 43bf000d57cba7b4aa3d8e4e22d2ec3b
+timeCreated: 1480355211
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TrimmedGanonIdleAndThrowSpear_0
+    21300002: TrimmedGanonIdleAndThrowSpear_1
+    21300004: TrimmedGanonIdleAndThrowSpear_2
+    21300006: TrimmedGanonIdleAndThrowSpear_3
+    21300008: TrimmedGanonIdleAndThrowSpear_4
+    21300010: TrimmedGanonIdleAndThrowSpear_5
+    21300012: TrimmedGanonIdleAndThrowSpear_6
+    21300014: TrimmedGanonIdleAndThrowSpear_7
+    21300016: TrimmedGanonIdleAndThrowSpear_8
+    21300018: TrimmedGanonIdleAndThrowSpear_9
+    21300020: TrimmedGanonIdleAndThrowSpear_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TrimmedGanonIdleAndThrowSpear_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 425
+        width: 125
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrimmedGanonIdleAndThrowSpear_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 426
+        width: 126
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrimmedGanonIdleAndThrowSpear_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 426
+        width: 126
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrimmedGanonIdleAndThrowSpear_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 428
+        width: 128
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrimmedGanonIdleAndThrowSpear_4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 428
+        width: 126
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrimmedGanonIdleAndThrowSpear_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 241
+        width: 184
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrimmedGanonIdleAndThrowSpear_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 175
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrimmedGanonIdleAndThrowSpear_7
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 233
+        width: 218
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrimmedGanonIdleAndThrowSpear_8
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 226
+        width: 221
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrimmedGanonIdleAndThrowSpear_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 67
+        width: 191
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TrimmedGanonIdleAndThrowSpear_10
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 70
+        width: 187
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

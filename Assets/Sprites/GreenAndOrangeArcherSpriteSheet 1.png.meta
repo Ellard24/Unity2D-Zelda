@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 3995177855d0ab14db09f48d8250df95
+timeCreated: 1477079635
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GreenAndOrangeArcherSpriteSheet 1_0
+    21300002: GreenAndOrangeArcherSpriteSheet 1_1
+    21300004: GreenAndOrangeArcherSpriteSheet 1_2
+    21300006: GreenAndOrangeArcherSpriteSheet 1_3
+    21300008: GreenAndOrangeArcherSpriteSheet 1_4
+    21300010: GreenAndOrangeArcherSpriteSheet 1_5
+    21300012: GreenAndOrangeArcherSpriteSheet 1_6
+    21300014: GreenAndOrangeArcherSpriteSheet 1_7
+    21300016: GreenAndOrangeArcherSpriteSheet 1_8
+    21300018: GreenAndOrangeArcherSpriteSheet 1_9
+    21300020: GreenAndOrangeArcherSpriteSheet 1_10
+    21300022: GreenAndOrangeArcherSpriteSheet 1_11
+    21300024: GreenAndOrangeArcherSpriteSheet 1_12
+    21300026: GreenAndOrangeArcherSpriteSheet 1_13
+    21300028: GreenAndOrangeArcherSpriteSheet 1_14
+    21300030: GreenAndOrangeArcherSpriteSheet 1_15
+    21300032: GreenAndOrangeArcherSpriteSheet 1_16
+    21300034: GreenAndOrangeArcherSpriteSheet 1_17
+    21300036: GreenAndOrangeArcherSpriteSheet 1_18
+    21300038: GreenAndOrangeArcherSpriteSheet 1_19
+    21300040: GreenAndOrangeArcherSpriteSheet 1_20
+    21300042: GreenAndOrangeArcherSpriteSheet 1_21
+    21300044: GreenAndOrangeArcherSpriteSheet 1_22
+    21300046: GreenAndOrangeArcherSpriteSheet 1_23
+    21300048: GreenAndOrangeArcherSpriteSheet 1_24
+    21300050: GreenAndOrangeArcherSpriteSheet 1_25
+    21300052: GreenAndOrangeArcherSpriteSheet 1_27
+    21300054: GreenAndOrangeArcherSpriteSheet 1_28
+    21300056: GreenAndOrangeArcherSpriteSheet 1_29
+    21300058: GreenAndOrangeArcherSpriteSheet 1_30
+    21300060: GreenAndOrangeArcherSpriteSheet 1_31
+    21300062: GreenAndOrangeArcherSpriteSheet 1_32
+    21300064: GreenAndOrangeArcherSpriteSheet 1_33
+    21300066: GreenAndOrangeArcherSpriteSheet 1_34
+    21300068: GreenAndOrangeArcherSpriteSheet 1_35
+    21300070: GreenAndOrangeArcherSpriteSheet 1_36
+    21300072: GreenAndOrangeArcherSpriteSheet 1_37
+    21300074: GreenAndOrangeArcherSpriteSheet 1_38
+    21300076: GreenAndOrangeArcherSpriteSheet 1_39
+    21300078: GreenAndOrangeArcherSpriteSheet 1_40
+    21300080: GreenAndOrangeArcherSpriteSheet 1_41
+    21300082: GreenAndOrangeArcherSpriteSheet 1_42
+    21300084: GreenAndOrangeArcherSpriteSheet 1_43
+    21300086: GreenAndOrangeArcherSpriteSheet 1_44
+    21300088: GreenAndOrangeArcherSpriteSheet 1_45
+    21300090: GreenAndOrangeArcherSpriteSheet 1_46
+    21300092: GreenAndOrangeArcherSpriteSheet 1_47
+    21300094: GreenAndOrangeArcherSpriteSheet 1_48
+    21300096: GreenAndOrangeArcherSpriteSheet 1_49
+    21300098: GreenAndOrangeArcherSpriteSheet 1_50
+    21300100: GreenAndOrangeArcherSpriteSheet 1_51
+    21300102: GreenAndOrangeArcherSpriteSheet 1_52
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 554
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 554
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 554
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 553
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 553
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 553
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 553
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 553
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 552
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 553
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 553
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 553
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 514
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 514
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 512
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 515
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 515
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 515
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 515
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 515
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 515
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 515
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_22
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 515
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_23
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 515
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_24
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 516
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_25
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 516
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_27
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 477
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_28
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 477
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 477
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 477
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_31
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 477
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 477
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 478
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 478
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_35
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 478
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_36
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 478
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_37
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 478
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_38
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 478
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_39
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 438
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 438
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 436
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_42
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 439
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_43
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 439
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_44
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 439
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_45
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 440
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 440
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_47
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 440
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_48
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 440
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_49
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 441
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_50
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 443
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_51
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 443
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GreenAndOrangeArcherSpriteSheet 1_52
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 443
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

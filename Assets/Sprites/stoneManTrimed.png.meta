@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: a46861ee639dfdf468a7c22a69b56812
+timeCreated: 1476823239
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stoneManTrimed_0
+    21300002: stoneManTrimed_1
+    21300004: stoneManTrimed_2
+    21300006: stoneManTrimed_3
+    21300008: stoneManTrimed_4
+    21300010: stoneManTrimed_5
+    21300012: stoneManTrimed_6
+    21300014: stoneManTrimed_7
+    21300016: stoneManTrimed_8
+    21300018: stoneManTrimed_9
+    21300020: stoneManTrimed_10
+    21300022: stoneManTrimed_11
+    21300024: stoneManTrimed_12
+    21300026: stoneManTrimed_13
+    21300028: stoneManTrimed_14
+    21300030: stoneManTrimed_15
+    21300032: stoneManTrimed_16
+    21300034: stoneManTrimed_17
+    21300036: stoneManTrimed_18
+    21300038: stoneManTrimed_19
+    21300040: stoneManTrimed_20
+    21300042: stoneManTrimed_21
+    21300044: stoneManTrimed_22
+    21300046: stoneManTrimed_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stoneManTrimed_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 251
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 252
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 251
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 252
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 252
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 252
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 252
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 252
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_8
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 252
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 196
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 196
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 196
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_12
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 196
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 196
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 196
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 196
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_16
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 196
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_17
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 196
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 141
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 141
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 141
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 137
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_22
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 137
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stoneManTrimed_23
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 137
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

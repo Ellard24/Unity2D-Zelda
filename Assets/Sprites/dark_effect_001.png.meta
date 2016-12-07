@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: d8253ba89a1efea469f3c1d48616aeb4
+timeCreated: 1480368232
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dark_effect_001_0
+    21300002: dark_effect_001_1
+    21300004: dark_effect_001_2
+    21300006: dark_effect_001_3
+    21300008: dark_effect_001_4
+    21300010: dark_effect_001_5
+    21300012: dark_effect_001_6
+    21300014: dark_effect_001_7
+    21300016: dark_effect_001_8
+    21300018: dark_effect_001_9
+    21300020: dark_effect_001_10
+    21300022: dark_effect_001_11
+    21300024: dark_effect_001_12
+    21300026: dark_effect_001_13
+    21300028: dark_effect_001_14
+    21300030: dark_effect_001_15
+    21300032: dark_effect_001_16
+    21300034: dark_effect_001_17
+    21300036: dark_effect_001_18
+    21300038: dark_effect_001_19
+    21300040: dark_effect_001_20
+    21300042: dark_effect_001_21
+    21300044: dark_effect_001_22
+    21300046: dark_effect_001_23
+    21300048: dark_effect_001_24
+    21300050: dark_effect_001_25
+    21300052: dark_effect_001_26
+    21300054: dark_effect_001_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dark_effect_001_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 971
+        width: 129
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 971
+        width: 129
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 970
+        width: 147
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_3
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 971
+        width: 137
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_4
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 975
+        width: 167
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 779
+        width: 151
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 776
+        width: 176
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_7
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 848
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_8
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 775
+        width: 159
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_9
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 776
+        width: 163
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_10
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 788
+        width: 166
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 586
+        width: 167
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 587
+        width: 170
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_13
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 583
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_14
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 583
+        width: 149
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_15
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 581
+        width: 179
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 388
+        width: 168
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 392
+        width: 126
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_18
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 406
+        width: 130
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_19
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 403
+        width: 128
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_20
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 402
+        width: 74
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 210
+        width: 73
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_22
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 264
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_23
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 94
+        width: 21
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_24
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 94
+        width: 17
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_25
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 281
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_26
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 91
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dark_effect_001_27
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 92
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

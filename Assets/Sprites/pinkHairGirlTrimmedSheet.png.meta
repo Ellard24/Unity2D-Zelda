@@ -1,0 +1,829 @@
+fileFormatVersion: 2
+guid: f5f96a84517a7b443bd9445643ad7cbb
+timeCreated: 1476383082
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pinkHairGirlTrimmedSheet_0
+    21300002: pinkHairGirlTrimmedSheet_1
+    21300004: pinkHairGirlTrimmedSheet_2
+    21300006: pinkHairGirlTrimmedSheet_3
+    21300008: pinkHairGirlTrimmedSheet_5
+    21300010: pinkHairGirlTrimmedSheet_6
+    21300012: pinkHairGirlTrimmedSheet_7
+    21300014: pinkHairGirlTrimmedSheet_11
+    21300016: pinkHairGirlTrimmedSheet_13
+    21300018: pinkHairGirlTrimmedSheet_15
+    21300020: pinkHairGirlTrimmedSheet_16
+    21300022: pinkHairGirlTrimmedSheet_17
+    21300024: pinkHairGirlTrimmedSheet_18
+    21300026: pinkHairGirlTrimmedSheet_20
+    21300028: pinkHairGirlTrimmedSheet_22
+    21300030: pinkHairGirlTrimmedSheet_23
+    21300032: pinkHairGirlTrimmedSheet_25
+    21300034: pinkHairGirlTrimmedSheet_26
+    21300036: pinkHairGirlTrimmedSheet_27
+    21300038: pinkHairGirlTrimmedSheet_28
+    21300040: pinkHairGirlTrimmedSheet_30
+    21300042: pinkHairGirlTrimmedSheet_31
+    21300044: pinkHairGirlTrimmedSheet_32
+    21300046: pinkHairGirlTrimmedSheet_33
+    21300048: pinkHairGirlTrimmedSheet_34
+    21300050: pinkHairGirlTrimmedSheet_35
+    21300052: pinkHairGirlTrimmedSheet_36
+    21300054: pinkHairGirlTrimmedSheet_37
+    21300056: pinkHairGirlTrimmedSheet_38
+    21300058: pinkHairGirlTrimmedSheet_39
+    21300060: pinkHairGirlTrimmedSheet_40
+    21300062: pinkHairGirlTrimmedSheet_41
+    21300064: pinkHairGirlTrimmedSheet_42
+    21300066: pinkHairGirlTrimmedSheet_43
+    21300068: pinkHairGirlTrimmedSheet_44
+    21300070: pinkHairGirlTrimmedSheet_45
+    21300072: pinkHairGirlTrimmedSheet_46
+    21300074: pinkHairGirlTrimmedSheet_47
+    21300076: pinkHairGirlTrimmedSheet_48
+    21300078: pinkHairGirlTrimmedSheet_49
+    21300080: pinkHairGirlTrimmedSheet_50
+    21300082: pinkHairGirlTrimmedSheet_51
+    21300084: pinkHairGirlTrimmedSheet_52
+    21300086: pinkHairGirlTrimmedSheet_53
+    21300088: pinkHairGirlTrimmedSheet_54
+    21300090: pinkHairGirlTrimmedSheet_55
+    21300092: pinkHairGirlTrimmedSheet_56
+    21300094: pinkHairGirlTrimmedSheet_57
+    21300096: pinkHairGirlTrimmedSheet_58
+    21300098: pinkHairGirlTrimmedSheet_59
+    21300100: pinkHairGirlTrimmedSheet_60
+    21300102: pinkHairGirlTrimmedSheet_61
+    21300104: pinkHairGirlTrimmedSheet_62
+    21300106: pinkHairGirlTrimmedSheet_63
+    21300108: pinkHairGirlTrimmedSheet_64
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 658
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 658
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 659
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 660
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 659
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 659
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 660
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 619
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 619
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 619
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 619
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_17
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 619
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 619
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 619
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 579
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_23
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 580
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 579
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 579
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 579
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_28
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 579
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_30
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 578
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 537
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 538
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_33
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 537
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_34
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 536
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_35
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 538
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_36
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 537
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_37
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 535
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_38
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 482
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_39
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 488
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_40
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 487
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_41
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 503
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_42
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 487
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 486
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_44
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 477
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_45
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 484
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_46
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 476
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_47
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 484
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 435
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_49
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 427
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 421
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_51
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 424
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 425
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_53
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 377
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_54
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 385
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_55
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 374
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_56
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 377
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_57
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 378
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_58
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 348
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_59
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 361
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_60
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 327
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_61
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 337
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_62
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 327
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_63
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 329
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pinkHairGirlTrimmedSheet_64
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 328
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

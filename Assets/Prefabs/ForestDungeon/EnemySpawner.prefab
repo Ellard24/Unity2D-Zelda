@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1000013217789196}
+  m_IsPrefabParent: 1
+--- !u!1 &1000013217789196
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000011003544624}
+  - 114: {fileID: 114000011150873014}
+  m_Layer: 0
+  m_Name: EnemySpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000011003544624
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013217789196}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 9.33, y: -9.78, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &114000011150873014
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013217789196}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d65ced1b41443194eac4eae5cbc305ef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnPoints:
+  - {x: 2.12, y: -57.89}
+  - {x: 16.38, y: -58.13}
+  - {x: 16.38, y: -70}
+  - {x: 3.13, y: -70}
+  enemies:
+  - {fileID: 1000013850923410, guid: d773b672af775ed49bcb1ca164dfd668, type: 2}
+  - {fileID: 1000013850923410, guid: d773b672af775ed49bcb1ca164dfd668, type: 2}
+  - {fileID: 1000013850923410, guid: d773b672af775ed49bcb1ca164dfd668, type: 2}
+  - {fileID: 1000013850923410, guid: d773b672af775ed49bcb1ca164dfd668, type: 2}
+  aliveEnemies: []
+  waveSpawned: 0
+  _player: {fileID: 0}
+  warpTarget: {fileID: 0}
+  door: {fileID: 1000013415096854, guid: 7abb4c8a3209ace4daa34cdd71246151, type: 2}
+  newDoorNorth: {fileID: 0}
+  newDoorSouth: {fileID: 0}
+  chest: {fileID: 0}
+  chestSound: {fileID: 8300000, guid: a8c7a6e6ce8e9dc4ab14e54dc9a1a8f3, type: 3}
+  number: 0

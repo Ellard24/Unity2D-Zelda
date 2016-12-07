@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: 60eb543f45e1bde4e876506caafc0161
+timeCreated: 1480435131
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EyeStatueTrimmed_0
+    21300002: EyeStatueTrimmed_1
+    21300004: EyeStatueTrimmed_2
+    21300006: EyeStatueTrimmed_3
+    21300008: EyeStatueTrimmed_4
+    21300010: EyeStatueTrimmed_5
+    21300012: EyeStatueTrimmed_6
+    21300014: EyeStatueTrimmed_7
+    21300016: EyeStatueTrimmed_8
+    21300018: EyeStatueTrimmed_9
+    21300020: EyeStatueTrimmed_10
+    21300022: EyeStatueTrimmed_11
+    21300024: EyeStatueTrimmed_12
+    21300026: EyeStatueTrimmed_13
+    21300028: EyeStatueTrimmed_14
+    21300030: EyeStatueTrimmed_15
+    21300032: EyeStatueTrimmed_16
+    21300034: EyeStatueTrimmed_17
+    21300036: EyeStatueTrimmed_18
+    21300038: EyeStatueTrimmed_19
+    21300040: EyeStatueTrimmed_20
+    21300042: EyeStatueTrimmed_21
+    21300044: EyeStatueTrimmed_22
+    21300046: EyeStatueTrimmed_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 84
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 83
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 83
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 71
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 74
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 76
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 78
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 76
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_8
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 74
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 71
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_10
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 77
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 75
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 32
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 32
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 33
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 33
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_18
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_20
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 33
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 33
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_22
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 33
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EyeStatueTrimmed_23
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 33
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
