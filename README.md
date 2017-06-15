@@ -1,5 +1,10 @@
 # CS 419 Electric Slide Unity Project
 
+## Quick Note
+Check the PDF for a detailed description of how the project was put together from start to finish.
+
+
+
 ## I. Setup Instructions
 
 **You should only have to do this part once.**
